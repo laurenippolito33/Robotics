@@ -1,3 +1,3 @@
-Hello, my name is Lauren Ippolito. This repository includes code I wrote for a robotics class at the University of Pittsburgh (MEMS 1097—Special Project). 
+Hello, my name is Lauren Ippolito. This repository includes code I wrote for a robotics class that I took my senior year at the University of Pittsburgh (MEMS 1097—Special Project). 
 I worked with my lab partner Olivia Hendrickson in writing all of the code and generative AI was used when needed to assist in debugging the code for controlling our robots.
 We were using ROS on Ubuntu to control an Interbotix px100 robot arm and a turtlebot3. 
